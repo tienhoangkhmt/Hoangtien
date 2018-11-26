@@ -7,6 +7,6 @@
 </head>
 <body>
 <h2 title="Hướng Dẫn Học Tập"> Hướng Dẫn Học Tập </h2>
-<a href  = "https://www.w3schools.com" > Trang chủ 
+<a href  = "https://www.w3schools.com" > Trang chủ </a>
 </body>
 </html>

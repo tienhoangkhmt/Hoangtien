@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+/* css header*/
+header{
+    text-align: center;
+    background: #167a66;
+}
+.sup-head{
+    color: #f2ea0e;
+    font-size: 35px;
+    text-shadow: #ed1e48 2px 3px 4px , #b357ba 1px 3px 5px ;
+}
+.sup-head a{
+    text-decoration: none;
+}
+#search{
+    margin: 15px 0;
+    padding: 10px auto;
+    font-size: 10px;
+    border-radius: 20px;
+    width: 80%;
+    height: 20px;
+}
+input:focus{
+    outline: none;
+}
+.col-xl-4{
+    margin: 10px auto;
+}
+.icon-two{
+    margin: 10px auto;
+}
+/* css banner */
+/* css menu*/
+
+.menu-main ul{
+    text-align: center;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.menu-main ul li{
+    list-style-type: none;
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: relative;
+}
+.menu-main ul li a{
+    display: block;
+    color: #00ccff;
+    text-decoration: none;
+
+}.menu-main ul li a:hover{
+    background:#167a66;
+    color: #00ccff;
+ }
+.menu-main ul li> .sup-menu{
+    display: none;
+ }
+.menu-main ul li:hover .sup-menu{
+    position: absolute;
+    display: block;
+    background: white;
+    color: #00ccff;
+}
+.row1{
+    text-align: center;
+}
+/* css article*/
+.silde{
+    margin-top: 15px;
+    margin-right:60px;
+}
+.news h3{
+    text-align: center;
+    color: red;
+    text-shadow: #ed1e48 4px 6px 8px , #b357ba 3px 9px 10px ;
+}
+.silde .trungtam .item{
+    text-align: center;
+}
+.silde .trungtam .item a{
+    text-align: center;
+     text-decoration: none;
+}
+.silde .trungtam .active{
+    background: gainsboro;
+}
+.promotebannen  {
+    margin-top: 15px;
+    margin-right: 60px;
+}
